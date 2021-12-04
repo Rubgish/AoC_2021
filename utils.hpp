@@ -3,6 +3,8 @@
 #include <vector>
 #include <iterator>
 #include <algorithm>
+#include <map>
+#include <sstream>
 
 class line
 {
